@@ -1,0 +1,15 @@
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\bin\Debug\net6.0\Clase21R.exe
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\bin\Debug\net6.0\Clase21R.deps.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\bin\Debug\net6.0\Clase21R.runtimeconfig.json
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\bin\Debug\net6.0\Clase21R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\bin\Debug\net6.0\Clase21R.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\refint\Clase21R.dll
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.pdb
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\Clase21R.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Personal\UTN\Proyectos C#\Clase21R\Clase21R\obj\Debug\net6.0\ref\Clase21R.dll
